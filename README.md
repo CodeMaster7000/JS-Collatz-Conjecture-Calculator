@@ -1,3 +1,3 @@
-# JavaScript Collatz Conjecture Calculator
+# Collatz Conjecture Calculator (JS Version)
 
 A Collatz Conjecture calculator coded in HTML and JavaScript.
